@@ -16,4 +16,4 @@
 
 - Talks will usually happen around 2pm on Wednesday. Make sure you are in on time, and setup your laptop 15 minutes before the talk.
 
-- 
+- Please generate a pull request with link to your presentation / recording and updating it in Readme.md
