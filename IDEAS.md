@@ -2,7 +2,7 @@
 
 This file contains ideas for talks we can have in our dev sessions.
 
-- Angular Content Projection and reusability of components
+- Angular Content Projection and reusability of components [Zainab @ 19th July 2017]
 - Working with Animations in Angular
 - Using Jest with Angular
 - Advanced routing and resolving route data
