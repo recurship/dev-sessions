@@ -1,0 +1,30 @@
+{
+  "name": "ts-testing-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Muhammad AbdulMoiz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^20.0.2",
+    "jest": "^20.0.4",
+    "ts-jest": "^20.0.6",
+    "typescript": "^2.4.1"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+    },
+    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(tsx?|jsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "json",
+      "jsx"
+    ]
+  }
+}

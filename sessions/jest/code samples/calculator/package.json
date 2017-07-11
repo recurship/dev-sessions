@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A simple caculator module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:seq": "jest --runInBand",
+    "update_snapshot": "jest --updateSnapshot"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "author": "Muhammad AbdulMoiz",
+  "license": "ISC"
+}
