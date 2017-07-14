@@ -6,4 +6,7 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Presenter|Date|
 |---------|---------------|--------|
-|    |    |    |
+| [Jest Basics](sessions/jest/README.md) | Muhammad AbdulMoiz | 5th July, 2017 |
+
+
+
