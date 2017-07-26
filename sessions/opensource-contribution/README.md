@@ -9,6 +9,8 @@ A small, very basic & informative talk on "Getting Started with Open Source Cont
 Slides can be accessed by following link: 
 [slides.com/narainsagar/get-started-opensource-contribution](http://slides.com/narainsagar/get-started-opensource-contribution)
 
+![welcome](screen.png)
+
 ## Summary
 
 Following points we have covered in this session:
