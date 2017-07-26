@@ -1,4 +1,4 @@
-# Getting Started with Angular2+ Debugging
+# Debugging Angular2+ Apps
 
 A small & introductory talk on e2e - Angular2 End to End Testing - basics, types, tools, techs, etc.
 
@@ -8,6 +8,8 @@ A small & introductory talk on e2e - Angular2 End to End Testing - basics, types
 
 Slides can be accessed by following link: 
 [slides.com/narainsagar/angular2-debugging](http://slides.com/narainsagar/angular2-debugging)
+
+![welcome](screen.png)
 
 ## Summary
 
