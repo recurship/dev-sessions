@@ -1,0 +1,17 @@
+<p>
+  ng-for works!
+</p>
+
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link active" [routerLink]="['./for-simple']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">for-simple</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" [routerLink]="['./for-of']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">for-of</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" [routerLink]="['./for-trackBy']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">for-trackBy</a>
+  </li>
+</ul>
+
+<router-outlet></router-outlet>

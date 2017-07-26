@@ -1,0 +1,24 @@
+<div class="container">
+    <h1>
+        {{title}}
+    </h1>
+
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" [routerLink]="['./ngIf']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" [class.active]="checkCurrentRoute('ngIf')">Ng-If</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" [routerLink]="['./ngFor']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" [class.active]="checkCurrentRoute('ngFor')">Ng-For</a>
+        </li>
+    </ul>
+
+    <router-outlet></router-outlet>
+</div>
+<!--
+<div *ngIf="userList | async as users; else loading">
+  <user-profile *ngFor="let user of users; count as count" [user]="user">
+  </user-profile>
+ <div>{{count}} total users</div>
+</div>
+<ng-template #loading>Loading...</ng-template>
+-->
