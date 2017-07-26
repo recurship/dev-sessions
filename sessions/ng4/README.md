@@ -6,6 +6,8 @@ A small talk on latest angular release version 4.0, it's features, major changes
 
 Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
 
+![welcome](screen.png)
+
 ## Demo
 
 Working demo (code samples) of the talk can be found in the [/demo](/demo) directory.
