@@ -1,0 +1,20 @@
+<p>
+  ng-if works!
+</p>
+
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link active" [routerLink]="['./if-simple']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">if-simple</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" [routerLink]="['./if-else']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">if-else</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" [routerLink]="['./if-then-else']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">if-then-else</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" [routerLink]="['./if-let']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">if-let</a>
+  </li>
+</ul>
+
+<router-outlet></router-outlet>

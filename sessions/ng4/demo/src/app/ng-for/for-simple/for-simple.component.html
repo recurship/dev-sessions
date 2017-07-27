@@ -1,0 +1,23 @@
+<p>
+  for-simple works!
+</p>
+
+<table class="table">
+  <thead>
+    <th>Index</th>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Even / Odd</th>
+    <th>Count</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let hero of heroes$ | async; let i = index; let c = count; let first = first; let last = last; let even = even; let odd = odd"
+      [ngClass]="{ odd: odd, even: even, first: first, last: last }">
+      <td>{{i}}</td>
+      <td>{{hero.id}}</td>
+      <td>{{hero.name}}</td>
+      <td>{{even ? 'even' : odd ? 'odd' : ''}}
+      <td>{{c}}</td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,26 @@
+<p>
+  for-of works!
+</p>
+
+<table class="table">
+  <thead>
+    <th>Index</th>
+    <th>Id</th>
+    <th>Name</th>
+  </thead>
+  <tbody>
+    <!--
+    <tr *ngFor="let hero of heroes$ | async;">
+      <td>{{hero.id}}</td>
+      <td>{{hero.name}}</td>
+    </tr>
+    -->
+    <ng-template ngFor let-hero [ngForOf]="heroes$ | async" let-i="index" [ngForTrackBy]="trackByFn">
+      <tr>
+        <td>{{i}}</td>
+        <td>{{hero.id}}</td>
+        <td>{{hero.name}}</td>
+      </tr>
+    </ng-template>
+  </tbody>
+</table>
