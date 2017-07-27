@@ -2,6 +2,12 @@
 
 A small talk on latest angular release version 4.0, it's features, major changes, etc.
 
+## What this talk on Youtube
+
+Video can be accessed by following link: [https://youtu.be/cKz6O6r9sCY](https://youtu.be/cKz6O6r9sCY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKz6O6r9sCY" frameborder="0" allowfullscreen></iframe>
+
 ## Slides
 
 Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
