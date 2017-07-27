@@ -1,18 +1,16 @@
-# Talk on Angular v4
+# What's new in Angular v4?
 
 A small talk on latest angular release version 4.0, it's features, major changes, etc.
 
-## What this talk on Youtube
+## Watch this talk on Youtube
 
-Video can be accessed by following link: [https://youtu.be/cKz6O6r9sCY](https://youtu.be/cKz6O6r9sCY)
+Video can be accessed by following link: [http://www.youtube.com/watch?v=cKz6O6r9sCY](http://www.youtube.com/watch?v=cKz6O6r9sCY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKz6O6r9sCY" frameborder="0" allowfullscreen></iframe>
+[![Watch the video for this talk here](http://img.youtube.com/vi/cKz6O6r9sCY/0.jpg)](http://www.youtube.com/watch?v=cKz6O6r9sCY)
 
 ## Slides
 
 Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
-
-![welcome](screen.png)
 
 ## Demo
 

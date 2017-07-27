@@ -4,12 +4,14 @@ A small, very basic & informative talk on "Getting Started with Open Source Cont
 
 **Questions discussed in detail are: Why, How, When, Where to.., etc?**
 
+## Watch this talk on Youtube
+
+*To be added soon.*
+
 ## Slides
 
 Slides can be accessed by following link: 
 [slides.com/narainsagar/get-started-opensource-contribution](http://slides.com/narainsagar/get-started-opensource-contribution)
-
-![welcome](screen.png)
 
 ## Summary
 
