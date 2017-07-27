@@ -4,6 +4,12 @@ A small & introductory talk on e2e - Angular2 End to End Testing - basics, types
 
 **Questions discussed in detail are: What, Why, How, etc?**
 
+## What this talk on Youtube
+
+Video can be accessed by following link: [https://youtu.be/rpXKZQmFtLM](https://youtu.be/rpXKZQmFtLM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpXKZQmFtLM" frameborder="0" allowfullscreen></iframe>
+
 ## Slides
 
 Slides can be accessed by following link: 
