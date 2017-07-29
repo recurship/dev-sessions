@@ -12,9 +12,14 @@ Video can be accessed by following link: [http://www.youtube.com/watch?v=cKz6O6r
 
 Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
 
-## Demo
+## Live Demo
 
-Working demo (code samples) of the talk can be found in the [/demo](/demo) directory.
+Live demo of the talk can be found at:
+[https://narainsagar.github.io/ng4-demo](https://narainsagar.github.io/ng4-demo)
+
+## Code
+
+Working demo (codebase) for the talk can be found in the [/demo](/demo) directory.
 
 ## Summary
 
@@ -30,7 +35,6 @@ Following points we have covered in this session:
 ### Updating your apps to v4.0.0
 
 Angular team have begin work on an interactive [Angular Update Guide](https://angular-update-guide.firebaseapp.com/) if you would like to see more information about making any needed changes to your application. please visit here : https://angular-update-guide.firebaseapp.com/
-
 
 ## About Me
 
