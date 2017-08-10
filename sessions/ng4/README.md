@@ -12,9 +12,14 @@ Video can be accessed by following link: [http://www.youtube.com/watch?v=cKz6O6r
 
 Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
 
-## Demo
+## Live Demo
 
-Working demo (code samples) of the talk can be found in the [/demo](/demo) directory.
+Live demo of the talk can be found at:
+[https://narainsagar.github.io/ng4-demo](https://narainsagar.github.io/ng4-demo)
+
+## Code
+
+Working demo (codebase) for the talk can be found in the [/demo](/demo) directory.
 
 ## Summary
 
@@ -31,19 +36,18 @@ Following points we have covered in this session:
 
 Angular team have begin work on an interactive [Angular Update Guide](https://angular-update-guide.firebaseapp.com/) if you would like to see more information about making any needed changes to your application. please visit here : https://angular-update-guide.firebaseapp.com/
 
-
 ## About Me
 
-> My name is **Narain Sagar**, I’m a FullStack JavaScript Developer, lives in  Karachi, Pakistan and pretty much enjoying my life.
+> Hi, I'm [**Narain Sagar**](https://github.com/narainsagar), A passionate FullStack JavaScript Developer, lives in  Karachi, Pakistan and pretty much enjoying my life. <br> I've been working with JavaScript (Angular2+, Node.js, Koa2, etc) for 2+ years. Currently working as a Lead Application Developer at [Recurship](https://recurship.com/).
 
 ![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
 
 ### Follow Me 👍
 
+[Website](http://narainsagar.com/) |
 [Medium](http://blog.narainsagar.com/) | 
-[Website](http://narainsagar.com/) | 
+[Github](https://github.com/narainsagar) | 
 [Twitter](https://twitter.com/narainsagar) | 
 [LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
 [Facebook](https://facebook.com/NarainSagarPage) | 
-[Github](https://github.com/narainsagar) | 
-[Stack Overflow](www.stackoverflow.com/users/5228251/narainsagar)
+[Stack Overflow](https://stackoverflow.com/users/5228251/narainsagar)

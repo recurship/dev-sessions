@@ -2,12 +2,16 @@
 
 A brief talk about how to create a progressive web app using the modern technologies/tools we have with Angular. You can also convert an existing Angular app to PWA.
 
+## Watch this talk on Youtube
+
+Video can be accessed by following link: [http://www.youtube.com/watch?v=l1VvA1sGNlk](http://www.youtube.com/watch?v=l1VvA1sGNlk)
+
+[![Watch the video for this talk here](screen.png)](http://www.youtube.com/watch?v=l1VvA1sGNlk)
+
 ## Slides
 
 Slides are available on the link below.
 [https://slides.com/ahsanayaz/creating-pwas-using-angular/](https://slides.com/ahsanayaz/creating-pwas-using-angular/)
-
-![welcome](screen.png)
 
 ## LIVE DEMO
 
