@@ -7,7 +7,7 @@ This file contains ideas for talks we can have in our dev sessions.
 - Using Jest with Angular
 - Advanced routing and resolving route data
 - Lazy loading and minimizing package size
-- PWAs and building instant loading apps using Lighthouse
+- ~PWAs and building instant loading apps using Lighthouse~
 - ~Using Docker to quickly setup local environments [Mashhood]~
 - Security in Angular
 - Understanding Angular Compiler for build optimizations
@@ -20,3 +20,4 @@ This file contains ideas for talks we can have in our dev sessions.
 - Building a library for Angular
 - Advanced tricks for Chrome Dev tools Users
 - Cabbie.js vs Robot Framework vs Protractor for E2E testing
+- Creating Animations at 60 FPS
