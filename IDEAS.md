@@ -21,3 +21,5 @@ This file contains ideas for talks we can have in our dev sessions.
 - Advanced tricks for Chrome Dev tools Users
 - Cabbie.js vs Robot Framework vs Protractor for E2E testing
 - Creating Animations at 60 FPS
+- PWA demo using Workbox [offline caching, offline analytics, background sync]
+- Using Docker and Kubernetes to automate deployment
