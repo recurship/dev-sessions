@@ -1,0 +1,27 @@
+<p>
+  if-then works!
+</p>
+
+<button (click)="show = !show">{{show ? 'hide' : 'show'}}</button>
+<button (click)="switchPrimary()">Switch Primary</button> show = {{show}}
+<br>
+<div *ngIf="show; then thenBlock; else elseBlock">this is ignored</div>
+<ng-template #primaryBlock>Primary text to show</ng-template>
+<ng-template #secondaryBlock>Secondary text to show</ng-template>
+<ng-template #elseBlock>Alternate text while primary text is hidden</ng-template>
+
+
+<br><br><br>
+
+<!-- another more simple example -->
+
+<button (click)="isRedColor = !isRedColor">Switch color to {{ !isRedColor ? 'red' : 'green'}}</button>
+<br>
+<div *ngIf="isRedColor; then colorThenBlock; else colorElseBlock">this is ignored</div>
+<ng-template #colorThenBlock>
+  <p [class.red]="isRedColor">Red color text to show</p>
+</ng-template>
+<ng-template #colorElseBlock>
+  <p [class.green]="!isRedColor">Green color text to show</p>
+</ng-template>
+

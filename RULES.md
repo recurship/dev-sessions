@@ -4,6 +4,8 @@
 
 - a talk should be of 20 minutes in length (exceptions can be made on request)
 
+- This 20 minute lenght is there so we can be consderate of everyones time - this session usually happens mid week there can be developers looking to get back to work quickly. 
+
 - talk can be delivered in Urdu or English (or both). The main point is to delivery the talk clearly.
 
 - Each talk should assume there are junior and senior devs, so there should be some background given for more technical talks

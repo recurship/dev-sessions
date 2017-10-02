@@ -1,0 +1,10 @@
+<p>
+  if-let works!
+</p>
+
+<button (click)="nextUser()">Next User</button>
+<br>
+<div *ngIf="user$ | async as user; else loading">
+  Hello {{user.last}}, {{user.first}}!
+</div>
+<ng-template #loading let-user>Waiting... (user is {{user|json}})</ng-template>
