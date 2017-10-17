@@ -23,4 +23,4 @@ This file contains ideas for talks we can have in our dev sessions.
 - Creating Animations at 60 FPS
 - PWA demo using Workbox [offline caching, offline analytics, background sync]
 - Using Docker and Kubernetes to automate deployment
-- Accessibility and using ARIA 
+- ~~Accessibility and using ARIA ~~
