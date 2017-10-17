@@ -6,6 +6,7 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
+| Web Accessibility 101 | [Slides](https://docs.google.com/presentation/d/1-tfUqYTuA4XWSaxnZU_z_iu40a4rRuSvZ1G24AZWZqU/edit#slide=id.p), [Video](https://www.youtube.com/watch?v=EStdJse3M4Q) | [Mashhood Rastgar](https://github.com/mashhoodr) | 3rd Oct, 2017
 | [Protractor and BrowserStack Integration](sessions/protractor-with-browserstack/) | [Slides](http://slides.com/abdulmoiz/deck-1) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 20th September, 2017
 | Introduction to Docker| [Slides](https://docs.google.com/presentation/d/1TP_k41vnTYlarznpNCvrEjSMtjHtlppdb2uOsN8PPz0/edit?usp=sharing) | [Mashhood Rastgar](https://github.com/mashhoodr) | 9th July 2017 
 | [Creating PWAs with Angular](sessions/pwas-using-angular/) | [Video](https://youtu.be/l1VvA1sGNlk), [Slides](https://slides.com/ahsanayaz/creating-pwas-using-angular/), [Live Demo](https://ahsanayaz.github.io/ng-books-pwa), [Code](https://github.com/AhsanAyaz/ng-books-pwa)| [Ahsan Ayaz](https://github.com/ahsanayaz) | 22nd July 2017
