@@ -6,6 +6,7 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
+| Google Data Studio Community Connectors | [Slides](https://goo.gl/ftmAE7)| [Sohaib Nehal](https://github.com/sohaibnehal) | 18th Oct, 2017
 | Web Accessibility 101 | [Slides](https://docs.google.com/presentation/d/1-tfUqYTuA4XWSaxnZU_z_iu40a4rRuSvZ1G24AZWZqU/edit#slide=id.p), [Video](https://www.youtube.com/watch?v=EStdJse3M4Q) | [Mashhood Rastgar](https://github.com/mashhoodr) | 3rd Oct, 2017
 | [Protractor and BrowserStack Integration](sessions/protractor-with-browserstack/) | [Slides](http://slides.com/abdulmoiz/deck-1) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 20th September, 2017
 | Introduction to Docker| [Slides](https://docs.google.com/presentation/d/1TP_k41vnTYlarznpNCvrEjSMtjHtlppdb2uOsN8PPz0/edit?usp=sharing) | [Mashhood Rastgar](https://github.com/mashhoodr) | 9th July 2017 
@@ -16,3 +17,4 @@ This repository is used for managing all our dev session resources and [rules](r
 | [What's new in Angular4](sessions/ng4/) | [Video](https://youtu.be/cKz6O6r9sCY), [Slides](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p), [Live Demo](https://narainsagar.github.io/ng4-demo), [Code](https://github.com/narainsagar/ng4-demo) | [Narain Sagar](https://github.com/narainsagar) | 29th March, 2017
 | [Debugging Angular2+ Apps](sessions/ng-debugging/) | [Slides](https://slides.com/narainsagar/angular2-debugging) | [Narain Sagar](https://github.com/narainsagar) | 27th January, 2017
 | [Angular2+ End To End Testing](sessions/ng-e2e-testing/) | [Video](https://youtu.be/rpXKZQmFtLM), [Slides](https://slides.com/narainsagar/angular2-e2e-testing) | [Narain Sagar](https://github.com/narainsagar) | 2nd December, 2016
+
