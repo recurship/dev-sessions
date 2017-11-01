@@ -6,6 +6,9 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
+| Components as a Service | NA | Abdul Qadir | 15th Nov 2017 |
+| TBD | NA | Ali Zenaish Noorani | 8th Nov 2017 |
+| Advanced Angular Routing | NA | Narain Sagar |  1st Nov 2017 |
 | [Introduction to Observables with RxJs](sessions/rxjs/) | [Slides](http://slides.com/abdulmoiz/deck-4) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 25th October, 2017
 | Google Data Studio Community Connectors | [Slides](https://goo.gl/ftmAE7) | [Sohaib Nehal](https://github.com/sohaibnehal) | 19th Oct, 2017
 | Web Accessibility 101 | [Slides](https://docs.google.com/presentation/d/1-tfUqYTuA4XWSaxnZU_z_iu40a4rRuSvZ1G24AZWZqU/edit#slide=id.p), [Video](https://www.youtube.com/watch?v=EStdJse3M4Q) | [Mashhood Rastgar](https://github.com/mashhoodr) | 3rd Oct, 2017
