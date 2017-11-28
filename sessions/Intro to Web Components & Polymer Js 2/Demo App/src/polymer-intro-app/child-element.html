@@ -1,0 +1,37 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+
+<dom-module id="child-element">
+  <template>
+    <style>
+       :host {
+        display: block;
+      }
+      /* h2 {
+        color: var(--child-h2-color, black);
+      } */
+    </style>
+    <h2>Child [[prop1]]!</h2>
+    <input type="text" value="{{prop1::input}}">
+  </template>
+
+  <script>
+    /**
+     * @customElement
+     * @polymer
+     */
+    class ChildElement extends Polymer.Element {
+      static get is() { return 'child-element'; }
+      static get properties() {
+        return {
+          prop1: {
+            type: String,
+            notify: true,
+            value: 'Intro to Polymer 2'
+          }
+        };
+      }
+    }
+
+    window.customElements.define(ChildElement.is, ChildElement);
+  </script>
+</dom-module>
