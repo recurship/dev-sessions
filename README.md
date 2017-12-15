@@ -6,12 +6,12 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
+| The Power of Decorators | NA | Rahil Khurshid Ali | 20th Dec 2017 |
 | Introduction to CSS Preprocessors frameworks (SASS, SCSS, LESS, etc) | NA | [Narain Sagar](https://github.com/narainsagar) | 18th Dec 2017 |
 | CSS Grid Layout | NA | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th Dec 2017 |
 | Intro to Web Components & PolymerJs 2 | NA | Nawazish Ali | 22nd Nov 2017 |
 | Components as a Service | NA | Abdul Qadir | 15th Nov 2017 |
 | Art of Presentations | [Slides](https://goo.gl/sgoHRr) | [Sohaib Nehal](https://github.com/sohaibnehal) | 13th Nov 2017 |
-| TBD | NA | Ali Zenaish Noorani | 8th Nov 2017 |
 | Up and Running with Loopback | NA | Ali Zenaish Noorani | 8th Nov 2017 |
 | Advanced Angular Routing | NA | Narain Sagar |  1st Nov 2017 |
 | [Introduction to Observables with RxJs](sessions/rxjs/) | [Slides](http://slides.com/abdulmoiz/deck-4) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 25th October, 2017
