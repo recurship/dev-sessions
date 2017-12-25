@@ -6,6 +6,7 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
+| JavaScript Utility Libraries | NA | [Sohaib Nehal](https://github.com/sohaibnehal) | 29th December 2017 |
 | Code Modification | NA | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th January 2018 |
 | The Power of Decorators | NA | Rahil Khurshid Ali | 20th Dec 2017 |
 | Introduction to CSS Preprocessors frameworks (SASS, SCSS, LESS, etc) | NA | [Narain Sagar](https://github.com/narainsagar) | 18th Dec 2017 |
