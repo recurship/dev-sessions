@@ -10,7 +10,7 @@ Video can be accessed by following link: [http://www.youtube.com/watch?v=cKz6O6r
 
 ## Slides
 
-Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
+Slides can be accessed at [https://goo.gl/9QcCeu](https://goo.gl/9QcCeu)
 
 ## Live Demo
 
