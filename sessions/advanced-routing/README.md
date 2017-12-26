@@ -13,6 +13,15 @@ Video can be accessed by following link: [http://www.youtube.com/watch?v=HohbeBu
 Slides can be accessed by following link: 
 [https://goo.gl/N8DneM](https://goo.gl/N8DneM)
 
+## Live Demo
+
+Live demo of the talk can be found at:
+[https://narainsagar.github.io/angular4-advanced-routing-demo](https://narainsagar.github.io/angular4-advanced-routing-demo)
+
+## Code
+
+Working demo (codebase) for the talk can be found in the [/code-demo](/code-demo) directory.
+
 ## Summary
 
 Following things we have covered in this session:
