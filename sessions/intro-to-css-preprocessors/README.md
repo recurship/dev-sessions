@@ -1,31 +1,28 @@
-# Getting Started with Angular2+ End To End (e2e) Testing
+# Introduction to CSS Preprocessors
 
-A small & introductory talk on e2e - Angular2 End to End Testing - basics, types, tools, techs, etc.
-
-**Questions discussed in detail are: What, Why, How, etc?**
+A very detailed & informative talk on "CSS Preprocessors".
 
 ## Watch this talk on Youtube
 
-Video can be accessed by following link: [http://www.youtube.com/watch?v=rpXKZQmFtLM](http://www.youtube.com/watch?v=rpXKZQmFtLM)
-
-[![Watch the video for this talk here](http://img.youtube.com/vi/rpXKZQmFtLM/0.jpg)](http://www.youtube.com/watch?v=rpXKZQmFtLM)
+*To be added soon.*
 
 ## Slides
 
 Slides can be accessed by following link: 
-[slides.com/narainsagar/angular2-e2e-testing](http://slides.com/narainsagar/angular2-e2e-testing)
+[https://goo.gl/VrkPKC](https://goo.gl/VrkPKC)
 
 ## Summary
 
 Following points we have covered in this session:
 
 * Introduction
-* Types of testing
-* What is Automation testing?
-* Manual vs Automation testing
-* Unit vs E2E testing
-* E2E: Tools & Technologies
-* Basic code examples
+* What is a CSS Preprocessor?
+* Why Preprocessing CSS?
+* Benefits of using CSS Preprocessors?
+* List of known CSS preprocessors exist?
+* Advanced Features CSS Preprocessors provides.
+* Difference between few well known CSS Preprocessors
+* Conclusion!
 
 ## About Me
 
