@@ -6,7 +6,9 @@ A small, very basic & informative talk on "Getting Started with Open Source Cont
 
 ## Watch this talk on Youtube
 
-*To be added soon.*
+Video can be accessed by following link: [http://www.youtube.com/watch?v=xl8YOLCFKGU](http://www.youtube.com/watch?v=xl8YOLCFKGU)
+
+[![Watch the video for this talk here](http://img.youtube.com/vi/xl8YOLCFKGU/0.jpg)](http://www.youtube.com/watch?v=xl8YOLCFKGU)
 
 ## Slides
 

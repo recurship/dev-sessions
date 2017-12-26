@@ -1,0 +1,61 @@
+
+<nav class="navbar navbar-default">
+    <ul class="nav navbar-nav">
+        <li routerLinkActive="active"><a [routerLink]="['/home', {showDetail:false}]" [preserveQueryParams]="true">Home</a></li>
+
+        <li routerLinkActive="active"><a [routerLink]="['/flight-booking/flight-search']">Search Flights</a></li>
+        <!--
+        <li routerLinkActive="active"><a [routerLink]="['/flight-search']">Search Flights</a></li>
+        <li routerLinkActive="active"><a [routerLink]="['/passenger-search']">Search Passenger</a></li>
+        -->
+
+        <li routerLinkActive="active"><a [routerLink]="['/bookings']" >Your bookings</a></li>
+        <li routerLinkActive="active"><a [routerLink]="[{ outlets: { aux: 'flight-history' }}]" >Show History</a></li>
+        <li routerLinkActive="active"><a [routerLink]="[{ outlets: { aux: null }}]" >Hide History</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+
+<div class="col-sm-10">
+    <router-outlet></router-outlet>
+</div>
+
+<div class="col-sm-2">
+    <router-outlet name="aux"></router-outlet>
+</div>
+
+</div>
+
+<div class="loading-indicator" *ngIf="showWaitInfo">
+    <div class="spinner">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+    </div>
+</div>
+<!-- Fußzeile -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<li><a [routerLink]="[{outlets: { aux: ['history', {showDetail: true}] }}]">History einblenden</a></li>
+<li><a [routerLink]="[{outlets: { aux: null }}]">History ausblenden</a></li>
+-->
