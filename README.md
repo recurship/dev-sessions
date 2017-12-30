@@ -7,7 +7,7 @@ This repository is used for managing all our dev session resources and [rules](r
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
 | Code Modification | NA | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th January 2018 |
-| JavaScript Utility Libraries | NA | [Sohaib Nehal](https://github.com/sohaibnehal) | 29th December 2017 |
+| JavaScript Utility Libraries | [Slides](https://goo.gl/bZPJ6g) | [Sohaib Nehal](https://github.com/sohaibnehal) | 29th December 2017 |
 | [Introduction to CSS Preprocessors](sessions/intro-to-css-preprocessors) | [Slides](https://goo.gl/VrkPKC) | [Narain Sagar](https://github.com/narainsagar) | 26th Dec 2017 |
 | The Power of Decorators | NA | Rahil Khurshid Ali | 20th Dec 2017 |
 | CSS Grid Layout | [Slides](http://slides.com/ammarhasan/css-grid) | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th Dec 2017 |
