@@ -7,7 +7,7 @@ This repository is used for managing all our dev session resources and [rules](r
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
 | Typescript: beyond basics | Slides | [Abdul Qadir](https://github.com/abdulqadir93) | 21st February 2018 |
-| What is in the Parcel? | [Slides](https://goo.gl/xWS4h1), [Code Sample](https://goo.gl/bZVfud) | [Sohaib Nehal](https://github.com/sohaibnehal) | 14th February 2018 |
+| What is in the Parcel📦? | [Slides](https://goo.gl/xWS4h1), [Code Sample](https://goo.gl/bZVfud) | [Sohaib Nehal](https://github.com/sohaibnehal) | 14th February 2018 |
 | Code Modification | [Slides](http://slides.com/ammarhasan/codemod) | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th January 2018 |
 | JavaScript Utility Libraries | [Slides](https://goo.gl/bZPJ6g), [Video](https://www.youtube.com/watch?v=pKYcuy2ztrc) | [Sohaib Nehal](https://github.com/sohaibnehal) | 29th December 2017 |
 | [Introduction to CSS Preprocessors](sessions/intro-to-css-preprocessors) | [Slides](https://goo.gl/VrkPKC)  | [Narain Sagar](https://github.com/narainsagar) | 26th Dec 2017 |
