@@ -10,7 +10,7 @@ This repository is used for managing all our dev session resources and [rules](r
 | What is in the Parcel📦? | [Slides](https://goo.gl/xWS4h1), [Code Sample](https://goo.gl/bZVfud) | [Sohaib Nehal](https://github.com/sohaibnehal) | 14th February 2018 |
 | Code Modification | [Slides](http://slides.com/ammarhasan/codemod) | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th January 2018 |
 | JavaScript Utility Libraries | [Slides](https://goo.gl/bZPJ6g), [Video](https://www.youtube.com/watch?v=pKYcuy2ztrc) | [Sohaib Nehal](https://github.com/sohaibnehal) | 29th December 2017 |
-| [Introduction to CSS Preprocessors](sessions/intro-to-css-preprocessors) | [Slides](https://goo.gl/VrkPKC)  | [Narain Sagar](https://github.com/narainsagar) | 26th Dec 2017 |
+| [Introduction to CSS Preprocessors](sessions/intro-to-css-preprocessors) | [Slides](https://goo.gl/VrkPKC), [Video](https://youtu.be/33Vm00U93cA)  | [Narain Sagar](https://github.com/narainsagar) | 26th Dec 2017 |
 | The Power of Decorators | NA | Rahil Khurshid Ali | 20th Dec 2017 |
 | CSS Grid Layout | [Slides](http://slides.com/ammarhasan/css-grid), [Video](https://www.youtube.com/watch?v=9dtsgK2AJso&t=18s) | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th Dec 2017 |
 | Intro to Web Components & PolymerJs 2 | [Slides](https://docs.google.com/presentation/d/1p_xXUktLD-PvJFCtZfvaxdVA-J0c-k8qB1OYVf-0Na0/edit#slide=id.g35f391192_00) [Video](https://www.youtube.com/watch?v=MlBxTfeJ-Js) | Nawazish Ali | 22nd Nov 2017 |
@@ -28,6 +28,6 @@ This repository is used for managing all our dev session resources and [rules](r
 | [Getting Started with Open Source Contribution](sessions/opensource-contribution/) | [Slides](https://slides.com/narainsagar/get-started-opensource-contribution), [Video](https://www.youtube.com/watch?v=xl8YOLCFKGU) | [Narain Sagar](https://github.com/narainsagar) | 12th July, 2017
 | [Jest Basics](sessions/jest/readme.md) | [Slides](https://slides.com/abdulmoiz/deck) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 5th July, 2017 |
 | [What's new in Angular4](sessions/ng4/) | [Video](https://youtu.be/cKz6O6r9sCY), [Slides](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p), [Live Demo](https://narainsagar.github.io/ng4-demo), [Code](https://github.com/narainsagar/ng4-demo) | [Narain Sagar](https://github.com/narainsagar) | 29th March, 2017
-| [Debugging Angular2+ Apps](sessions/ng-debugging/) | [Slides](https://slides.com/narainsagar/angular2-debugging) | [Narain Sagar](https://github.com/narainsagar) | 27th January, 2017
+| [Debugging Angular2+ Apps](sessions/ng-debugging/) | [Slides](https://slides.com/narainsagar/angular2-debugging), [Video](#) | [Narain Sagar](https://github.com/narainsagar) | 27th January, 2017
 | [Angular2+ End To End Testing](sessions/ng-e2e-testing/) | [Video](https://youtu.be/rpXKZQmFtLM), [Slides](https://slides.com/narainsagar/angular2-e2e-testing) | [Narain Sagar](https://github.com/narainsagar) | 2nd December, 2016
 | Introduction to Angular2+ unit testing | [Video](https://www.youtube.com/watch?v=ssljIpXFfuY), [Slides](https://docs.google.com/presentation/d/1k-C6C1oxCnt9lqyY3NMHdCZtzlSvfsgVOSEDL6gX1f4/edit?usp=sharing) | [Abdul Qadir](https://github.com/abdulqadir93) | 27th March, 2017

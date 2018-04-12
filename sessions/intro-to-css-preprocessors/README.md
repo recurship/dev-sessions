@@ -4,7 +4,9 @@ A very detailed & informative talk on "CSS Preprocessors".
 
 ## Watch this talk on Youtube
 
-*To be added soon.*
+Video can be accessed by following link: [http://www.youtube.com/watch?v=33Vm00U93cA](http://www.youtube.com/watch?v=33Vm00U93cA)
+
+[![Watch the video for this talk here](http://img.youtube.com/vi/33Vm00U93cA/0.jpg)](http://www.youtube.com/watch?v=33Vm00U93cA)
 
 ## Slides
 
