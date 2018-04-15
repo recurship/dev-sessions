@@ -31,3 +31,4 @@ This repository is used for managing all our dev session resources and [rules](r
 | [Debugging Angular2+ Apps](sessions/ng-debugging/) | [Slides](https://slides.com/narainsagar/angular2-debugging), [Video](#) | [Narain Sagar](https://github.com/narainsagar) | 27th January, 2017
 | [Angular2+ End To End Testing](sessions/ng-e2e-testing/) | [Video](https://youtu.be/rpXKZQmFtLM), [Slides](https://slides.com/narainsagar/angular2-e2e-testing) | [Narain Sagar](https://github.com/narainsagar) | 2nd December, 2016
 | Introduction to Angular2+ unit testing | [Video](https://www.youtube.com/watch?v=ssljIpXFfuY), [Slides](https://docs.google.com/presentation/d/1k-C6C1oxCnt9lqyY3NMHdCZtzlSvfsgVOSEDL6gX1f4/edit?usp=sharing) | [Abdul Qadir](https://github.com/abdulqadir93) | 27th March, 2017
+| Rows Locking system using PostgreSQL and NodeJS | [Video](), [Slides]() | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 25th April, 2018
