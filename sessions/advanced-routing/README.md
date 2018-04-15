@@ -1,31 +1,37 @@
-# Getting Started with Angular2+ End To End (e2e) Testing
+# Angular4+ Advanced Routing
 
-A small & introductory talk on e2e - Angular2 End to End Testing - basics, types, tools, techs, etc.
-
-**Questions discussed in detail are: What, Why, How, etc?**
+A very detailed & introductory talk on Angular advanced routing, tricks & trips and it also includes how to use it in coding.
 
 ## Watch this talk on Youtube
 
-Video can be accessed by following link: [http://www.youtube.com/watch?v=rpXKZQmFtLM](http://www.youtube.com/watch?v=rpXKZQmFtLM)
+Video can be accessed by following link: [http://www.youtube.com/watch?v=HohbeBuZYrQ](http://www.youtube.com/watch?v=HohbeBuZYrQ)
 
-[![Watch the video for this talk here](http://img.youtube.com/vi/rpXKZQmFtLM/0.jpg)](http://www.youtube.com/watch?v=rpXKZQmFtLM)
+[![Watch the video for this talk here](http://img.youtube.com/vi/HohbeBuZYrQ/0.jpg)](http://www.youtube.com/watch?v=HohbeBuZYrQ)
 
 ## Slides
 
 Slides can be accessed by following link: 
-[slides.com/narainsagar/angular2-e2e-testing](http://slides.com/narainsagar/angular2-e2e-testing)
+[https://goo.gl/N8DneM](https://goo.gl/N8DneM)
+
+## Live Demo
+
+Live demo of the talk can be found at:
+[https://narainsagar.github.io/angular4-advanced-routing-demo](https://narainsagar.github.io/angular4-advanced-routing-demo)
+
+## Code
+
+Working demo (codebase) for the talk can be found in the [/code-demo](/code-demo) directory.
 
 ## Summary
 
-Following points we have covered in this session:
+Following things we have covered in this session:
 
-* Introduction
-* Types of testing
-* What is Automation testing?
-* Manual vs Automation testing
-* Unit vs E2E testing
-* E2E: Tools & Technologies
-* Basic code examples
+* Basic Routing
+* Children Routes
+* Route Guards (`CanActivate`, `CanActivateChild`, `Resolvers`, etc)
+* Lazy Loading Modules
+* Preloading Modules
+* Custom Preloading Strategy
 
 ## About Me
 

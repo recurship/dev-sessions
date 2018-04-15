@@ -10,7 +10,7 @@ Video can be accessed by following link: [http://www.youtube.com/watch?v=cKz6O6r
 
 ## Slides
 
-Slides can be accessed by following link: [here](https://docs.google.com/presentation/d/1j_-hN12xylHgbajVlik4GlEptAYNnkKNFGeBqykMPW4/edit#slide=id.p)
+Slides can be accessed at [https://goo.gl/9QcCeu](https://goo.gl/9QcCeu)
 
 ## Live Demo
 
@@ -48,6 +48,7 @@ Angular team have begin work on an interactive [Angular Update Guide](https://an
 [Medium](http://blog.narainsagar.com/) | 
 [Github](https://github.com/narainsagar) | 
 [Twitter](https://twitter.com/narainsagar) | 
-[LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
+[LinkedIn](https://www.linkedin.com/in/narainsagar) | 
 [Facebook](https://facebook.com/NarainSagarPage) | 
-[Stack Overflow](https://stackoverflow.com/users/5228251/narainsagar)
+[Stack Overflow](https://stackoverflow.com/users/5228251/narainsagar) | 
+[YouTube](https://www.youtube.com/channel/UC-akHWBnkhupW-KnbGZFJkg)

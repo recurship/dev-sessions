@@ -6,7 +6,9 @@ A small, very basic & informative talk on "Getting Started with Open Source Cont
 
 ## Watch this talk on Youtube
 
-*To be added soon.*
+Video can be accessed by following link: [http://www.youtube.com/watch?v=xl8YOLCFKGU](http://www.youtube.com/watch?v=xl8YOLCFKGU)
+
+[![Watch the video for this talk here](http://img.youtube.com/vi/xl8YOLCFKGU/0.jpg)](http://www.youtube.com/watch?v=xl8YOLCFKGU)
 
 ## Slides
 
@@ -44,6 +46,7 @@ Following points we have covered in this session:
 [Medium](http://blog.narainsagar.com/) | 
 [Github](https://github.com/narainsagar) | 
 [Twitter](https://twitter.com/narainsagar) | 
-[LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
+[LinkedIn](https://www.linkedin.com/in/narainsagar) | 
 [Facebook](https://facebook.com/NarainSagarPage) | 
-[Stack Overflow](https://stackoverflow.com/users/5228251/narainsagar)
+[Stack Overflow](https://stackoverflow.com/users/5228251/narainsagar) | 
+[YouTube](https://www.youtube.com/channel/UC-akHWBnkhupW-KnbGZFJkg)
