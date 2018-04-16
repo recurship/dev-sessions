@@ -1,0 +1,14 @@
+<header>
+  <h1>Hello</h1>
+  <a [routerLink]="['/page']">PAGE</a>
+  <a [routerLink]="[{ outlets: { 'sidebar': 'aside' } }]">MENU</a>
+  <a [routerLink]="[{ outlets: { 'modal': ['mymodal', 5] } }]">OPEN MODAL</a>
+</header>
+
+<router-outlet></router-outlet>
+
+<aside>
+  <router-outlet name="sidebar"></router-outlet>
+</aside>
+
+<router-outlet name="modal"></router-outlet>

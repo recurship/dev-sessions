@@ -7,7 +7,8 @@ This repository is used for managing all our dev session resources and [rules](r
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
 | Rows Locking system using PostgreSQL and NodeJS | [Video](), [Slides]() | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 25th April, 2018
-| Typescript: beyond basics | Slides | [Abdul Qadir](https://github.com/abdulqadir93) | 21st February 2018 |
+| Named Router Outlets in Angular | [Slides](https://docs.google.com/presentation/d/1b3nPF_gFLAPS3U5H2BKkQkx34kxLZbzhX-BK6oGd3-g/edit?usp=sharing), [Code](https://github.com/recurship/dev-sessions/tree/master/sessions/named-router-outlets) | [Abdul Qadir](https://github.com/abdulqadir93) | 11th April 2018 |
+| Typescript: beyond basics | [Slides](https://docs.google.com/presentation/d/1hd6GWNadcmuO7EHLyQCHbeuLGJ9Hs2qEEMJeuHEnOi4/edit?usp=sharing) | [Abdul Qadir](https://github.com/abdulqadir93) | 21st February 2018 |
 | What is in the Parcel📦? | [Slides](https://goo.gl/xWS4h1), [Code Sample](https://goo.gl/bZVfud) | [Sohaib Nehal](https://github.com/sohaibnehal) | 14th February 2018 |
 | Code Modification | [Slides](http://slides.com/ammarhasan/codemod) | [Muhammad Ammar Hasan](https://github.com/AmmarHasan) | 11th January 2018 |
 | JavaScript Utility Libraries | [Slides](https://goo.gl/bZPJ6g), [Video](https://www.youtube.com/watch?v=pKYcuy2ztrc) | [Sohaib Nehal](https://github.com/sohaibnehal) | 29th December 2017 |
