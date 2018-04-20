@@ -6,7 +6,7 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
-| CLoud watch setup and integration on EC2 instance | [Video](), [Slides]() | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 20th April, 2018
+| CLoud watch setup and integration on EC2 instance | [Video](), [Slides](https://slides.com/abdulmoiz/deck-5) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 20th April, 2018
 | Rows Locking system using PostgreSQL and NodeJS | [Video](), [Slides]() | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 25th April, 2018
 | Typescript: beyond basics | Slides | [Abdul Qadir](https://github.com/abdulqadir93) | 21st February 2018 |
 | What is in the Parcel📦? | [Slides](https://goo.gl/xWS4h1), [Code Sample](https://goo.gl/bZVfud) | [Sohaib Nehal](https://github.com/sohaibnehal) | 14th February 2018 |
