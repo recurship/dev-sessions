@@ -6,7 +6,7 @@ This repository is used for managing all our dev session resources and [rules](r
 
 | Topic | Links | Presenter | Date |
 |---------|---------|---------------|--------|
-| CLoud watch setup and integration on EC2 instance | [Video](), [Slides]() | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 20th April, 2018
+| CLoud watch setup and integration on EC2 instance | [Video](), [Slides](https://slides.com/abdulmoiz/deck-5) | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 20th April, 2018
 | Rows Locking system using PostgreSQL and NodeJS | [Video](), [Slides]() | [Muhammad AbdulMoiz](https://github.com/abdulmoizeng) | 25th April, 2018
 | Named Router Outlets in Angular | [Slides](https://docs.google.com/presentation/d/1b3nPF_gFLAPS3U5H2BKkQkx34kxLZbzhX-BK6oGd3-g/edit?usp=sharing), [Code](https://github.com/recurship/dev-sessions/tree/master/sessions/named-router-outlets) | [Abdul Qadir](https://github.com/abdulqadir93) | 11th April 2018 |
 | Typescript: beyond basics | [Slides](https://docs.google.com/presentation/d/1hd6GWNadcmuO7EHLyQCHbeuLGJ9Hs2qEEMJeuHEnOi4/edit?usp=sharing) | [Abdul Qadir](https://github.com/abdulqadir93) | 21st February 2018 |
